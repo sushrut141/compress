@@ -3,7 +3,6 @@
 #include <opencv\cv.h>
 #include <math.h>
 #include <iostream>
-#include <conio.h>
 #include <cstdlib>
 
 #define PI 3.14
